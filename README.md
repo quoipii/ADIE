@@ -1,3 +1,2 @@
 # ADIE
-My attempt, with research on this being banned, to make some form of learning code. 
-Their pronouns, as of being asked at the age of 1, are any/any. 
+My attempt, with research on this being banned (as a personal restriction for fun), to make some form of learning code. 
